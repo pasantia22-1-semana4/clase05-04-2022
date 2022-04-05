@@ -15,5 +15,5 @@
  * https://jsonplaceholder.typicode.com/posts
  * 
  * //obtener un post
- * https://jsonplaceholder.typicode.com/posts/1
+ * https://jsonplaceholder.typicode.com/posts/2
  */
